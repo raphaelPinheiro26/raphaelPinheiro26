@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raphaelPinheiro26
 - 👀 I’m interested in Embedded Systems, IoT and Medical devices
 - 🌱 I’m currently learning - Artificial Intelligence applied to medicine
-- 💞️ I’m looking to collaborate on anything that can help our society, just call :wink:
+- 💞️ I’m looking to collaborate on anything that can help our society, just call me :wink:
 - 📫 How to reach me rlpinheiro13@gmail.com
 
 
