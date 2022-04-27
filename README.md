@@ -15,7 +15,7 @@
 
 <div>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-57-512.png">
+    <img align="center" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3BTeAAtEBGh0sHnYX2FgedwhFSobIVe36w&usqp=CAU">
     <img align="center" height="50" width="50" src="https://i.pinimg.com/564x/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.jpg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
