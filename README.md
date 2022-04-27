@@ -15,8 +15,8 @@
 
 <div>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3BTeAAtEBGh0sHnYX2FgedwhFSobIVe36w&usqp=CAU">
-    <img align="center" height="50" width="50" src="https://i.pinimg.com/564x/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.jpg">
+    <img align="center" height="50" width="50" src="https://img2.gratispng.com/20180414/jbw/kisspng-bash-shell-script-shebang-unix-linux-github-5ad254d2c46911.3515273615237337148045.jpg">
+    <img align="center" height="50" width="50" src="https://camo.githubusercontent.com/ecb93239b6e9fea47739b6c5cd50ffd5253873378a7d8f83a33ff43e70618db3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32352f61382f35642f32356138356439653530353734333064383232373361336337356537333031342e706e67">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
